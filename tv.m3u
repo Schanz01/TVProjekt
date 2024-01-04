@@ -201,3 +201,7 @@ plugin://plugin.video.vavooto/?name=ZDF+INFO
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Standart" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png",DAZN 1
 plugin://plugin.video.vavooto/?name=DAZN 1
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Standart" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png",DAZN 2
+plugin://plugin.video.vavooto/?name=DAZN 2
+#EXTINF:-1 tvg-id="Sky Bundesliga" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/517.png",Sky Bundesliga
+plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA
