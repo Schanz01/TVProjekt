@@ -1,0 +1,521 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="123.de" tvg-name="DE001:1.2.3 TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE001:1.2.3 TV
+http://abcnew.site:8880/12mss200007/69734683/2682
+#EXTINF:-1 tvg-id="13th.street.de" tvg-name="DE002:13TH STREET" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE002:13TH STREET
+http://abcnew.site:8880/12mss200007/69734683/2681
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE003:3 SAT" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE003:3 SAT
+http://abcnew.site:8880/12mss200007/69734683/2680
+#EXTINF:-1 tvg-id="anixe.serie.de" tvg-name="DE005:ANIXE SERIES" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE005:ANIXE SERIES
+http://abcnew.site:8880/12mss200007/69734683/2678
+#EXTINF:-1 tvg-id="ard.alpha.de" tvg-name="DE006:ARD ALPHA" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE006:ARD ALPHA
+http://abcnew.site:8880/12mss200007/69734683/2677
+#EXTINF:-1 tvg-id="ard.das.erste.fr" tvg-name="DE007:ARD DAS ERSTE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE007:ARD DAS ERSTE
+http://abcnew.site:8880/12mss200007/69734683/2676
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE008:ARTE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE008:ARTE
+http://abcnew.site:8880/12mss200007/69734683/2675
+#EXTINF:-1 tvg-id="atv.de" tvg-name="DE009:ATV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE009:ATV
+http://abcnew.site:8880/12mss200007/69734683/2674
+#EXTINF:-1 tvg-id="deluxe.music.de" tvg-name="DE012:BADEN TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE012:BADEN TV
+http://abcnew.site:8880/12mss200007/69734683/2671
+#EXTINF:-1 tvg-id="discovery.de" tvg-name="DE013:BIBEL TV IMPULS" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE013:BIBEL TV IMPULS
+http://abcnew.site:8880/12mss200007/69734683/2670
+#EXTINF:-1 tvg-id="bild.de" tvg-name="DE014:BILD TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE014:BILD TV
+http://abcnew.site:8880/12mss200007/69734683/2669
+#EXTINF:-1 tvg-id="bongusto.de" tvg-name="DE015:BON GUSTO" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE015:BON GUSTO
+http://abcnew.site:8880/12mss200007/69734683/2668
+#EXTINF:-1 tvg-id="br.de" tvg-name="DE017:BR" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE017:BR
+http://abcnew.site:8880/12mss200007/69734683/2666
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE018:CAMPUS TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE018:CAMPUS TV
+http://abcnew.site:8880/12mss200007/69734683/2665
+#EXTINF:-1 tvg-id="comedy.central.de" tvg-name="DE021:COMEDY CENTRAL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE021:COMEDY CENTRAL
+http://abcnew.site:8880/12mss200007/69734683/2662
+#EXTINF:-1 tvg-id="das.erste.de" tvg-name="DE023:DAS ERSTE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE023:DAS ERSTE
+http://abcnew.site:8880/12mss200007/69734683/2660
+#EXTINF:-1 tvg-id="deutsches.musik.de" tvg-name="DE030:DEUTSCHES MUSIK" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE030:DEUTSCHES MUSIK
+http://abcnew.site:8880/12mss200007/69734683/2653
+#EXTINF:-1 tvg-id="dw.de" tvg-name="DE038:DW TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE038:DW TV
+http://abcnew.site:8880/12mss200007/69734683/2645
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE039:E! ENTERTAINMENT" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE039:E! ENTERTAINMENT
+http://abcnew.site:8880/12mss200007/69734683/2644
+#EXTINF:-1 tvg-id="rtl.ii.de" tvg-name="DE040:EAGLE ENTDECKERNATUR" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE040:EAGLE ENTDECKERNATUR
+http://abcnew.site:8880/12mss200007/69734683/2643
+#EXTINF:-1 tvg-id="rtl.crime.de" tvg-name="DE041:EAGLE PEPPA WUTZ" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE041:EAGLE PEPPA WUTZ
+http://abcnew.site:8880/12mss200007/69734683/2642
+#EXTINF:-1 tvg-id="geo.de" tvg-name="DE048:GEO TELEVISION" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE048:GEO TELEVISION
+http://abcnew.site:8880/12mss200007/69734683/2635
+#EXTINF:-1 tvg-id="goldstar.de" tvg-name="DE049:GOLDSTAR" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE049:GOLDSTAR
+http://abcnew.site:8880/12mss200007/69734683/2634
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="DE050:HEIMAT KANAL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE050:HEIMAT KANAL
+http://abcnew.site:8880/12mss200007/69734683/2633
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE053:HR FERNSEHEN" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE053:HR FERNSEHEN
+http://abcnew.site:8880/12mss200007/69734683/2630
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="DE054:JUKEBOX" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE054:JUKEBOX
+http://abcnew.site:8880/12mss200007/69734683/2629
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="DE055:KABEL 1" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE055:KABEL 1
+http://abcnew.site:8880/12mss200007/69734683/2628
+#EXTINF:-1 tvg-id="kabel.eins.classics.de" tvg-name="DE056:KABEL 1 CLASSICS" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE056:KABEL 1 CLASSICS
+http://abcnew.site:8880/12mss200007/69734683/2627
+#EXTINF:-1 tvg-id="kabel.1.doku.de" tvg-name="DE057:KABEL 1 DOKU" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE057:KABEL 1 DOKU
+http://abcnew.site:8880/12mss200007/69734683/2626
+#EXTINF:-1 tvg-id="kika.de" tvg-name="DE058:KIKA" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE058:KIKA
+http://abcnew.site:8880/12mss200007/69734683/2625
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="DE059:KINOWELT TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE059:KINOWELT TV
+http://abcnew.site:8880/12mss200007/69734683/2624
+#EXTINF:-1 tvg-id="sky.cinema.family.de" tvg-name="DE060:KRONE HIT TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE060:KRONE HIT TV
+http://abcnew.site:8880/12mss200007/69734683/2623
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE061:LIGHT CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE061:LIGHT CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/2622
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="DE080:MDR" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE080:MDR
+http://abcnew.site:8880/12mss200007/69734683/29204
+#EXTINF:-1 tvg-id="sky.sport.5.de" tvg-name="DE081:MEN IN BLACK CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE081:MEN IN BLACK CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/29203
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE082:MOTORVISION" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE082:MOTORVISION
+http://abcnew.site:8880/12mss200007/69734683/29202
+#EXTINF:-1 tvg-id="mtv.de" tvg-name="DE083:MTV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE083:MTV
+http://abcnew.site:8880/12mss200007/69734683/29201
+#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="DE084:MTV 00S" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE084:MTV 00S
+http://abcnew.site:8880/12mss200007/69734683/29200
+#EXTINF:-1 tvg-id="mtv.live.de" tvg-name="DE085:MTV LIVE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE085:MTV LIVE
+http://abcnew.site:8880/12mss200007/69734683/29199
+#EXTINF:-1 tvg-id="mtv.hits.de" tvg-name="DE086:MTV HITS" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE086:MTV HITS
+http://abcnew.site:8880/12mss200007/69734683/29198
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE087:MELODIE TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE087:MELODIE TV
+http://abcnew.site:8880/12mss200007/69734683/29197
+#EXTINF:-1 tvg-id="" tvg-name="DE088:MTV 80S" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE088:MTV 80S
+http://abcnew.site:8880/12mss200007/69734683/29196
+#EXTINF:-1 tvg-id="" tvg-name="DE089:MTV DANCE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE089:MTV DANCE
+http://abcnew.site:8880/12mss200007/69734683/29195
+#EXTINF:-1 tvg-id="" tvg-name="DE090:MTV MUSIC 24" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE090:MTV MUSIC 24
+http://abcnew.site:8880/12mss200007/69734683/29194
+#EXTINF:-1 tvg-id="" tvg-name="DE091:NTV HEVC" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE091:NTV HEVC
+http://abcnew.site:8880/12mss200007/69734683/29193
+#EXTINF:-1 tvg-id="n24.doku.de" tvg-name="DE093:N24 DOKU" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE093:N24 DOKU
+http://abcnew.site:8880/12mss200007/69734683/29191
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="DE096:NDR" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE096:NDR
+http://abcnew.site:8880/12mss200007/69734683/29188
+#EXTINF:-1 tvg-id="nitro.de" tvg-name="DE101:NITRO" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE101:NITRO
+http://abcnew.site:8880/12mss200007/69734683/29183
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.3.de" tvg-name="DE102:OBERPFALZ TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE102:OBERPFALZ TV
+http://abcnew.site:8880/12mss200007/69734683/29182
+#EXTINF:-1 tvg-id="oe24.de" tvg-name="DE103:OE24.TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE103:OE24.TV
+http://abcnew.site:8880/12mss200007/69734683/29181
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.10.de" tvg-name="DE104:OK DESSAU" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE104:OK DESSAU
+http://abcnew.site:8880/12mss200007/69734683/29180
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE105:ONE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE105:ONE
+http://abcnew.site:8880/12mss200007/69734683/29179
+#EXTINF:-1 tvg-id="one.music.de" tvg-name="DE106:ONE MUSIC" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE106:ONE MUSIC
+http://abcnew.site:8880/12mss200007/69734683/29178
+#EXTINF:-1 tvg-id="orf.1.de" tvg-name="DE107:ORF 1" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE107:ORF 1
+http://abcnew.site:8880/12mss200007/69734683/29177
+#EXTINF:-1 tvg-id="orf.2.de" tvg-name="DE108:ORF 2" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE108:ORF 2
+http://abcnew.site:8880/12mss200007/69734683/29176
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE110:PHOENIX" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE110:PHOENIX
+http://abcnew.site:8880/12mss200007/69734683/29174
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE112:PLANET" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE112:PLANET
+http://abcnew.site:8880/12mss200007/69734683/29172
+#EXTINF:-1 tvg-id="prosieben.de" tvg-name="DE113:PRO 7" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE113:PRO 7
+http://abcnew.site:8880/12mss200007/69734683/29171
+#EXTINF:-1 tvg-id="prosieben.fun.de" tvg-name="DE114:PRO 7 FUN" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE114:PRO 7 FUN
+http://abcnew.site:8880/12mss200007/69734683/29170
+#EXTINF:-1 tvg-id="prosieben.maxx.de" tvg-name="DE115:PRO 7 MAXX" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE115:PRO 7 MAXX
+http://abcnew.site:8880/12mss200007/69734683/29169
+#EXTINF:-1 tvg-id="puls.4.de" tvg-name="DE116:PULS 4" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE116:PULS 4
+http://abcnew.site:8880/12mss200007/69734683/29168
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE117:QVC" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE117:QVC
+http://abcnew.site:8880/12mss200007/69734683/29167
+#EXTINF:-1 tvg-id="qvc2.de" tvg-name="DE118:QVC ZWEI" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE118:QVC ZWEI
+http://abcnew.site:8880/12mss200007/69734683/29166
+#EXTINF:-1 tvg-id="" tvg-name="DE119:RFH TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE119:RFH TV
+http://abcnew.site:8880/12mss200007/69734683/29165
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="DE120:RBB" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE120:RBB
+http://abcnew.site:8880/12mss200007/69734683/29164
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE121:RFO" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE121:RFO
+http://abcnew.site:8880/12mss200007/69734683/29163
+#EXTINF:-1 tvg-id="ard.alpha.de" tvg-name="DE122:RNF" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE122:RNF
+http://abcnew.site:8880/12mss200007/69734683/29162
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE124:ROMANCE TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE124:ROMANCE TV
+http://abcnew.site:8880/12mss200007/69734683/29160
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE125:RTL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE125:RTL
+http://abcnew.site:8880/12mss200007/69734683/29159
+#EXTINF:-1 tvg-id="rtl.crime.de" tvg-name="DE126:RTL CRIME" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE126:RTL CRIME
+http://abcnew.site:8880/12mss200007/69734683/29158
+#EXTINF:-1 tvg-id="rtl.living.de" tvg-name="DE127:RTL LIVING" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE127:RTL LIVING
+http://abcnew.site:8880/12mss200007/69734683/29157
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE128:RTL LUXEMBOURG" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE128:RTL LUXEMBOURG
+http://abcnew.site:8880/12mss200007/69734683/29156
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE129:RTL LUXEMBOURG 2" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE129:RTL LUXEMBOURG 2
+http://abcnew.site:8880/12mss200007/69734683/29155
+#EXTINF:-1 tvg-id="nitro.de" tvg-name="DE130:RTL NITRO" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE130:RTL NITRO
+http://abcnew.site:8880/12mss200007/69734683/29154
+#EXTINF:-1 tvg-id="rtl.passion.de" tvg-name="DE131:RTL PASSION" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE131:RTL PASSION
+http://abcnew.site:8880/12mss200007/69734683/29153
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE132:RTL UP" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE132:RTL UP
+http://abcnew.site:8880/12mss200007/69734683/29152
+#EXTINF:-1 tvg-id="rtl.zwei.de" tvg-name="DE133:RTL ZWEI" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE133:RTL ZWEI
+http://abcnew.site:8880/12mss200007/69734683/29151
+#EXTINF:-1 tvg-id="rtl.crime.de" tvg-name="DE134:SACHSENEINS" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE134:SACHSENEINS
+http://abcnew.site:8880/12mss200007/69734683/29150
+#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="DE135:SAT 1" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE135:SAT 1
+http://abcnew.site:8880/12mss200007/69734683/29149
+#EXTINF:-1 tvg-id="sat.1.emotions.de" tvg-name="DE136:SAT 1 EMOTIONS" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE136:SAT 1 EMOTIONS
+http://abcnew.site:8880/12mss200007/69734683/29148
+#EXTINF:-1 tvg-id="sat.1.gold.de" tvg-name="DE137:SAT 1 GOLD" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE137:SAT 1 GOLD
+http://abcnew.site:8880/12mss200007/69734683/29147
+#EXTINF:-1 tvg-id="servus.de" tvg-name="DE138:SERVUS TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE138:SERVUS TV
+http://abcnew.site:8880/12mss200007/69734683/29146
+#EXTINF:-1 tvg-id="silverline.de" tvg-name="DE139:SILVERLINE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE139:SILVERLINE
+http://abcnew.site:8880/12mss200007/69734683/29145
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE140:SIXX" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE140:SIXX
+http://abcnew.site:8880/12mss200007/69734683/29144
+#EXTINF:-1 tvg-id="sky.1.de" tvg-name="DE141:SKY 1" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE141:SKY 1
+http://abcnew.site:8880/12mss200007/69734683/29143
+#EXTINF:-1 tvg-id="" tvg-name="DE214:SONNENKLAR TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE214:SONNENKLAR TV
+http://abcnew.site:8880/12mss200007/69734683/29068
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE217:SPIEGEL GESCHICHTE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE217:SPIEGEL GESCHICHTE
+http://abcnew.site:8880/12mss200007/69734683/29065
+#EXTINF:-1 tvg-id="" tvg-name="DE218:SPIEGEL WISSEN" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE218:SPIEGEL WISSEN
+http://abcnew.site:8880/12mss200007/69734683/29064
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="DE219:SPORT DIGITAL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE219:SPORT DIGITAL
+http://abcnew.site:8880/12mss200007/69734683/29063
+#EXTINF:-1 tvg-id="" tvg-name="DE220:SPORT1" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE220:SPORT1
+http://abcnew.site:8880/12mss200007/69734683/29062
+#EXTINF:-1 tvg-id="ric.de" tvg-name="DE221:SPORT1+" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE221:SPORT1+
+http://abcnew.site:8880/12mss200007/69734683/29061
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE223:SR" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE223:SR
+http://abcnew.site:8880/12mss200007/69734683/29059
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE225:STINGRAY CLASSICA" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE225:STINGRAY CLASSICA
+http://abcnew.site:8880/12mss200007/69734683/29058
+#EXTINF:-1 tvg-id="nitro.de" tvg-name="DE226:SUPER RTL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE226:SUPER RTL
+http://abcnew.site:8880/12mss200007/69734683/29056
+#EXTINF:-1 tvg-id="toggo.plus.de" tvg-name="DE227:SWR" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE227:SWR
+http://abcnew.site:8880/12mss200007/69734683/29055
+#EXTINF:-1 tvg-id="sky.1.de" tvg-name="DE229:TAGESSCHAU 24" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE229:TAGESSCHAU 24
+http://abcnew.site:8880/12mss200007/69734683/29053
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DE230:TASTEMADE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE230:TASTEMADE
+http://abcnew.site:8880/12mss200007/69734683/29052
+#EXTINF:-1 tvg-id="" tvg-name="DE231:TELE 5" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE231:TELE 5
+http://abcnew.site:8880/12mss200007/69734683/29051
+#EXTINF:-1 tvg-id="" tvg-name="DE237:THE LORD OF THE RINGS CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE237:THE LORD OF THE RINGS CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/29045
+#EXTINF:-1 tvg-id="" tvg-name="DE240:TOGGO PLUS" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE240:TOGGO PLUS
+http://abcnew.site:8880/12mss200007/69734683/29042
+#EXTINF:-1 tvg-id="" tvg-name="DE241:TOM AND JERRY" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE241:TOM AND JERRY
+http://abcnew.site:8880/12mss200007/69734683/29041
+#EXTINF:-1 tvg-id="" tvg-name="DE242:TRANSFORMERS CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE242:TRANSFORMERS CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/29040
+#EXTINF:-1 tvg-id="" tvg-name="DE243:TV INGOLSTADT" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE243:TV INGOLSTADT
+http://abcnew.site:8880/12mss200007/69734683/29039
+#EXTINF:-1 tvg-id="" tvg-name="DE244:TV OBERFRANKEN" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE244:TV OBERFRANKEN
+http://abcnew.site:8880/12mss200007/69734683/29038
+#EXTINF:-1 tvg-id="" tvg-name="DE246:VOX" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE246:VOX
+http://abcnew.site:8880/12mss200007/69734683/29036
+#EXTINF:-1 tvg-id="" tvg-name="DE247:VOXUP" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE247:VOXUP
+http://abcnew.site:8880/12mss200007/69734683/29035
+#EXTINF:-1 tvg-id="" tvg-name="DE252:WDR" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE252:WDR
+http://abcnew.site:8880/12mss200007/69734683/29030
+#EXTINF:-1 tvg-id="" tvg-name="DE253:WELT" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE253:WELT
+http://abcnew.site:8880/12mss200007/69734683/29029
+#EXTINF:-1 tvg-id="" tvg-name="DE254:WELT DER WUNDER" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE254:WELT DER WUNDER
+http://abcnew.site:8880/12mss200007/69734683/29028
+#EXTINF:-1 tvg-id="" tvg-name="DE255:XITE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE255:XITE
+http://abcnew.site:8880/12mss200007/69734683/29027
+#EXTINF:-1 tvg-id="" tvg-name="DE256:ZDF" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE256:ZDF
+http://abcnew.site:8880/12mss200007/69734683/29026
+#EXTINF:-1 tvg-id="" tvg-name="DE257:ZDF INFO" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE257:ZDF INFO
+http://abcnew.site:8880/12mss200007/69734683/29025
+#EXTINF:-1 tvg-id="" tvg-name="DE258:ZDF NEO" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE258:ZDF NEO
+http://abcnew.site:8880/12mss200007/69734683/29024
+#EXTINF:-1 tvg-id="" tvg-name="DE260:RTL 2" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE260:RTL 2
+http://abcnew.site:8880/12mss200007/69734683/29022
+#EXTINF:-1 tvg-id="animal.planet.de" tvg-name="DE004:ANIMAL PLANET" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE004:ANIMAL PLANET
+http://abcnew.site:8880/12mss200007/69734683/2679
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE022:CRIME & INVESTIGATION" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE022:CRIME & INVESTIGATION
+http://abcnew.site:8880/12mss200007/69734683/2661
+#EXTINF:-1 tvg-id="discovery.de" tvg-name="DE031:DISCOVERY CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE031:DISCOVERY CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/2652
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE037:DMAX" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE037:DMAX
+http://abcnew.site:8880/12mss200007/69734683/2646
+#EXTINF:-1 tvg-id="hgtv.de" tvg-name="DE051:HGTV" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE051:HGTV
+http://abcnew.site:8880/12mss200007/69734683/2632
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE052:HISTORY CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE052:HISTORY CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/2631
+#EXTINF:-1 tvg-id="nat.geo.de" tvg-name="DE094:NAT GEO" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE094:NAT GEO
+http://abcnew.site:8880/12mss200007/69734683/29190
+#EXTINF:-1 tvg-id="nat.geo.wild.de" tvg-name="DE095:NAT GEO WILD" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE095:NAT GEO WILD
+http://abcnew.site:8880/12mss200007/69734683/29189
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE143:SKY ARTS" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE143:SKY ARTS
+http://abcnew.site:8880/12mss200007/69734683/29141
+#EXTINF:-1 tvg-id="sky.nature.de" tvg-name="DE163:SKY NATURE" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE163:SKY NATURE
+http://abcnew.site:8880/12mss200007/69734683/29120
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE238:TLC" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE238:TLC
+http://abcnew.site:8880/12mss200007/69734683/29044
+#EXTINF:-1 tvg-id="auto.motor.sport.ch.de" tvg-name="DE010:AUTO MOTOR SPORT" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE010:AUTO MOTOR SPORT
+http://abcnew.site:8880/12mss200007/69734683/2673
+#EXTINF:-1 tvg-id="dazn.1.de" tvg-name="DE024:DAZN 1" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE024:DAZN 1
+http://abcnew.site:8880/12mss200007/69734683/2659
+#EXTINF:-1 tvg-id="dazn.2.de" tvg-name="DE025:DAZN 2" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE025:DAZN 2
+http://abcnew.site:8880/12mss200007/69734683/2658
+#EXTINF:-1 tvg-id="" tvg-name="DE026:DAZN 1 BAR" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE026:DAZN 1 BAR
+http://abcnew.site:8880/12mss200007/69734683/2657
+#EXTINF:-1 tvg-id="mtv.de" tvg-name="DE027:DAZN 2 BAR" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE027:DAZN 2 BAR
+http://abcnew.site:8880/12mss200007/69734683/2656
+#EXTINF:-1 tvg-id="n24.doku.de" tvg-name="DE028:DAZN 1 HEVC" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE028:DAZN 1 HEVC
+http://abcnew.site:8880/12mss200007/69734683/2655
+#EXTINF:-1 tvg-id="n.de" tvg-name="DE029:DAZN 2 HEVC" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE029:DAZN 2 HEVC
+http://abcnew.site:8880/12mss200007/69734683/2654
+#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="DE043:EUROSPORT 1" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE043:EUROSPORT 1
+http://abcnew.site:8880/12mss200007/69734683/2640
+#EXTINF:-1 tvg-id="eurosport.2.de" tvg-name="DE044:EUROSPORT 2" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE044:EUROSPORT 2
+http://abcnew.site:8880/12mss200007/69734683/2639
+#EXTINF:-1 tvg-id="sat.1.gold.de" tvg-name="DE045:EUROSPORT 2 XTRA" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE045:EUROSPORT 2 XTRA
+http://abcnew.site:8880/12mss200007/69734683/2638
+#EXTINF:-1 tvg-id="magenta.sport.de" tvg-name="DE062:MAGENTA SPORT 1" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE062:MAGENTA SPORT 1
+http://abcnew.site:8880/12mss200007/69734683/2621
+#EXTINF:-1 tvg-id="sky.krimi.de" tvg-name="DE063:MAGENTA SPORT 2" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE063:MAGENTA SPORT 2
+http://abcnew.site:8880/12mss200007/69734683/2620
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE064:MAGENTA SPORT 3" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE064:MAGENTA SPORT 3
+http://abcnew.site:8880/12mss200007/69734683/2619
+#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="DE065:MAGENTA SPORT 4" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE065:MAGENTA SPORT 4
+http://abcnew.site:8880/12mss200007/69734683/2618
+#EXTINF:-1 tvg-id="sky.sport.austria.de" tvg-name="DE066:MAGENTA SPORT 5" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE066:MAGENTA SPORT 5
+http://abcnew.site:8880/12mss200007/69734683/2617
+#EXTINF:-1 tvg-id="sky.sport.news.de" tvg-name="DE067:MAGENTA SPORT 6" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE067:MAGENTA SPORT 6
+http://abcnew.site:8880/12mss200007/69734683/2616
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE068:MAGENTA SPORT 7" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE068:MAGENTA SPORT 7
+http://abcnew.site:8880/12mss200007/69734683/2615
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE069:MAGENTA SPORT 8" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE069:MAGENTA SPORT 8
+http://abcnew.site:8880/12mss200007/69734683/2614
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE070:MAGENTA SPORT 9" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE070:MAGENTA SPORT 9
+http://abcnew.site:8880/12mss200007/69734683/2613
+#EXTINF:-1 tvg-id="super.rtl.de" tvg-name="DE071:MAGENTA SPORT 10" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE071:MAGENTA SPORT 10
+http://abcnew.site:8880/12mss200007/69734683/2612
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE072:MAGENTA SPORT 11" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE072:MAGENTA SPORT 11
+http://abcnew.site:8880/12mss200007/69734683/2611
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE073:MAGENTA SPORT 12" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE073:MAGENTA SPORT 12
+http://abcnew.site:8880/12mss200007/69734683/2610
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE074:MAGENTA SPORT 13" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE074:MAGENTA SPORT 13
+http://abcnew.site:8880/12mss200007/69734683/2609
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE075:MAGENTA SPORT 14" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE075:MAGENTA SPORT 14
+http://abcnew.site:8880/12mss200007/69734683/2608
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE076:MAGENTA SPORT 15" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE076:MAGENTA SPORT 15
+http://abcnew.site:8880/12mss200007/69734683/2607
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="DE077:MAGENTA SPORT 16" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE077:MAGENTA SPORT 16
+http://abcnew.site:8880/12mss200007/69734683/2606
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE078:MAGENTA SPORT 17" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE078:MAGENTA SPORT 17
+http://abcnew.site:8880/12mss200007/69734683/2605
+#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE079:MAGENTA SPORT 18" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE079:MAGENTA SPORT 18
+http://abcnew.site:8880/12mss200007/69734683/29205
+#EXTINF:-1 tvg-id="orf.sport.plus.de" tvg-name="DE109:ORF SPORT+" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE109:ORF SPORT+
+http://abcnew.site:8880/12mss200007/69734683/29175
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE182:SKY SPORT 1 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE182:SKY SPORT 1 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29100
+#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="DE183:SKY SPORT 2 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE183:SKY SPORT 2 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29099
+#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE184:SKY SPORT 3 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE184:SKY SPORT 3 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29098
+#EXTINF:-1 tvg-id="sky.sport.4.de" tvg-name="DE185:SKY SPORT 4 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE185:SKY SPORT 4 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29097
+#EXTINF:-1 tvg-id="sky.sport.5.de" tvg-name="DE186:SKY SPORT 5 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE186:SKY SPORT 5 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29096
+#EXTINF:-1 tvg-id="sky.sport.6.de" tvg-name="DE187:SKY SPORT 6 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE187:SKY SPORT 6 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29095
+#EXTINF:-1 tvg-id="sky.sport.7.de" tvg-name="DE188:SKY SPORT 7 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE188:SKY SPORT 7 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29094
+#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="DE189:SKY SPORT 8 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE189:SKY SPORT 8 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29093
+#EXTINF:-1 tvg-id="sky.sport.9.de" tvg-name="DE190:SKY SPORT 9 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE190:SKY SPORT 9 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29092
+#EXTINF:-1 tvg-id="sky.sport.10.de" tvg-name="DE191:SKY SPORT 10 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE191:SKY SPORT 10 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29091
+#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29090
+#EXTINF:-1 tvg-id="sky.sport.austria.2.de" tvg-name="DE193:SKY SPORT AUSTRIA 2 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE193:SKY SPORT AUSTRIA 2 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29089
+#EXTINF:-1 tvg-id="sky.sport.austria.3.de" tvg-name="DE194:SKY SPORT AUSTRIA 3 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE194:SKY SPORT AUSTRIA 3 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29088
+#EXTINF:-1 tvg-id="sky.sport.austria.4.de" tvg-name="DE195:SKY SPORT AUSTRIA 4 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE195:SKY SPORT AUSTRIA 4 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29087
+#EXTINF:-1 tvg-id="sky.sport.austria.5.de" tvg-name="DE196:SKY SPORT AUSTRIA 5 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE196:SKY SPORT AUSTRIA 5 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29086
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="DE197:SKY SPORT BUNDESLIGA 1 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE197:SKY SPORT BUNDESLIGA 1 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29085
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.2.de" tvg-name="DE198:SKY SPORT BUNDESLIGA 2 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE198:SKY SPORT BUNDESLIGA 2 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29084
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.3.de" tvg-name="DE199:SKY SPORT BUNDESLIGA 3 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE199:SKY SPORT BUNDESLIGA 3 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29083
+#EXTINF:-1 tvg-id="" tvg-name="DE200:SKY SPORT BUNDESLIGA 4 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE200:SKY SPORT BUNDESLIGA 4 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29082
+#EXTINF:-1 tvg-id="" tvg-name="DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29081
+#EXTINF:-1 tvg-id="" tvg-name="DE202:SKY SPORT BUNDESLIGA 6 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE202:SKY SPORT BUNDESLIGA 6 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29080
+#EXTINF:-1 tvg-id="" tvg-name="DE203:SKY SPORT BUNDESLIGA 7 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE203:SKY SPORT BUNDESLIGA 7 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29079
+#EXTINF:-1 tvg-id="" tvg-name="DE204:SKY SPORT BUNDESLIGA 8 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE204:SKY SPORT BUNDESLIGA 8 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29078
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE205:SKY SPORT BUNDESLIGA 9 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE205:SKY SPORT BUNDESLIGA 9 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29077
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE206:SKY SPORT BUNDESLIGA 10 (MATCH TIME)" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE206:SKY SPORT BUNDESLIGA 10 (MATCH TIME)
+http://abcnew.site:8880/12mss200007/69734683/29076
+#EXTINF:-1 tvg-id="" tvg-name="DE207:SKY SPORTS F1" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE207:SKY SPORTS F1
+http://abcnew.site:8880/12mss200007/69734683/29075
+#EXTINF:-1 tvg-id="" tvg-name="DE208:SKY SPORT GOLF" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE208:SKY SPORT GOLF
+http://abcnew.site:8880/12mss200007/69734683/29074
+#EXTINF:-1 tvg-id="" tvg-name="DE209:SKY SPORT MIX" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE209:SKY SPORT MIX
+http://abcnew.site:8880/12mss200007/69734683/29073
+#EXTINF:-1 tvg-id="" tvg-name="DE211:SKY SPORT PREMIER LEAGUE" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE211:SKY SPORT PREMIER LEAGUE
+http://abcnew.site:8880/12mss200007/69734683/29071
+#EXTINF:-1 tvg-id="" tvg-name="DE212:SKY SPORT TENNIS" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE212:SKY SPORT TENNIS
+http://abcnew.site:8880/12mss200007/69734683/29070
+#EXTINF:-1 tvg-id="" tvg-name="DE213:SKY SPORT TOP EVENT" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE213:SKY SPORT TOP EVENT
+http://abcnew.site:8880/12mss200007/69734683/29069
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE222:SPORTDIGITALL FUSSBALL" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE222:SPORTDIGITALL FUSSBALL
+http://abcnew.site:8880/12mss200007/69734683/29060
+#EXTINF:-1 tvg-id="" tvg-name="DE232:TELEKOM BUNDESLIGA 1" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE232:TELEKOM BUNDESLIGA 1
+http://abcnew.site:8880/12mss200007/69734683/29050
+#EXTINF:-1 tvg-id="" tvg-name="DE233:TELEKOM BUNDESLIGA 2" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE233:TELEKOM BUNDESLIGA 2
+http://abcnew.site:8880/12mss200007/69734683/29049
+#EXTINF:-1 tvg-id="sky.sport.f1.de" tvg-name="DE234:TELEKOM BUNDESLIGA 3" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE234:TELEKOM BUNDESLIGA 3
+http://abcnew.site:8880/12mss200007/69734683/29048
+#EXTINF:-1 tvg-id="" tvg-name="DE235:TELEKOM BUNDESLIGA 4" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE235:TELEKOM BUNDESLIGA 4
+http://abcnew.site:8880/12mss200007/69734683/29047
+#EXTINF:-1 tvg-id="" tvg-name="DE236:TRACE SPORT STARS" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE236:TRACE SPORT STARS
+http://abcnew.site:8880/12mss200007/69734683/29046
+#EXTINF:-1 tvg-id="" tvg-name="DE239:UFC FIGHT PASS" tvg-logo="" tvg-shift="0" group-title="DE Sports", DE239:UFC FIGHT PASS
+http://abcnew.site:8880/12mss200007/69734683/29043
+#EXTINF:-1 tvg-id="axn.de" tvg-name="DE011:AXN" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE011:AXN
+http://abcnew.site:8880/12mss200007/69734683/2672
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE020:CINE STAR ACTION HD" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE020:CINE STAR ACTION HD
+http://abcnew.site:8880/12mss200007/69734683/2663
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="DE033:DISNEY CINEMAGIC" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE033:DISNEY CINEMAGIC
+http://abcnew.site:8880/12mss200007/69734683/2650
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE036:DISNEY PLUS FILM" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE036:DISNEY PLUS FILM
+http://abcnew.site:8880/12mss200007/69734683/2647
+#EXTINF:-1 tvg-id="folx.music.de" tvg-name="DE046:CINE STAR ANIMATION HD" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE046:CINE STAR ANIMATION HD
+http://abcnew.site:8880/12mss200007/69734683/2637
+#EXTINF:-1 tvg-id="servus.de" tvg-name="DE047:GAME OF THRONES CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE047:GAME OF THRONES CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/2636
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE111:PIRATES OF THE CARIBBEAN CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE111:PIRATES OF THE CARIBBEAN CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/29173
+#EXTINF:-1 tvg-id="" tvg-name="DE123:ROCKY CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE123:ROCKY CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/29161
+#EXTINF:-1 tvg-id="sky.action.de" tvg-name="DE142:SKY ACTION" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE142:SKY ACTION
+http://abcnew.site:8880/12mss200007/69734683/29142
+#EXTINF:-1 tvg-id="sky.sport.10.de" tvg-name="DE144:SKY CINEMA 1" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE144:SKY CINEMA 1
+http://abcnew.site:8880/12mss200007/69734683/29140
+#EXTINF:-1 tvg-id="munchen.de" tvg-name="DE145:SKY CINEMA 24" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE145:SKY CINEMA 24
+http://abcnew.site:8880/12mss200007/69734683/29139
+#EXTINF:-1 tvg-id="sky.cinema.action.de" tvg-name="DE146:SKY CINEMA ACTION" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE146:SKY CINEMA ACTION
+http://abcnew.site:8880/12mss200007/69734683/29137
+#EXTINF:-1 tvg-id="sky.cinema.best.of.de" tvg-name="DE147:SKY CINEMA BEST" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE147:SKY CINEMA BEST
+http://abcnew.site:8880/12mss200007/69734683/29136
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE148:SKY CINEMA BEST OF" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE148:SKY CINEMA BEST OF
+http://abcnew.site:8880/12mss200007/69734683/29135
+#EXTINF:-1 tvg-id="sky.cinema.classics.de" tvg-name="DE149:SKY CINEMA CLASSICS" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE149:SKY CINEMA CLASSICS
+http://abcnew.site:8880/12mss200007/69734683/29134
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE150:SKY CINEMA COMEDY" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE150:SKY CINEMA COMEDY
+http://abcnew.site:8880/12mss200007/69734683/29133
+#EXTINF:-1 tvg-id="" tvg-name="DE151:SKY CINEMA CRIME" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE151:SKY CINEMA CRIME
+http://abcnew.site:8880/12mss200007/69734683/29132
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE152:SKY CINEMA DOCUMENTARIES" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE152:SKY CINEMA DOCUMENTARIES
+http://abcnew.site:8880/12mss200007/69734683/29131
+#EXTINF:-1 tvg-id="" tvg-name="DE153:SKY CINEMA EMOTION" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE153:SKY CINEMA EMOTION
+http://abcnew.site:8880/12mss200007/69734683/29130
+#EXTINF:-1 tvg-id="" tvg-name="DE154:SKY CINEMA FAMILY" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE154:SKY CINEMA FAMILY
+http://abcnew.site:8880/12mss200007/69734683/29129
+#EXTINF:-1 tvg-id="" tvg-name="DE155:SKY CINEMA FUN" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE155:SKY CINEMA FUN
+http://abcnew.site:8880/12mss200007/69734683/29128
+#EXTINF:-1 tvg-id="" tvg-name="DE156:SKY CINEMA HITS" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE156:SKY CINEMA HITS
+http://abcnew.site:8880/12mss200007/69734683/29127
+#EXTINF:-1 tvg-id="" tvg-name="DE157:SKY CINEMA NOSTALGIE" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE157:SKY CINEMA NOSTALGIE
+http://abcnew.site:8880/12mss200007/69734683/29126
+#EXTINF:-1 tvg-id="classica.de" tvg-name="DE158:SKY CINEMA PREMIEREN" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE158:SKY CINEMA PREMIEREN
+http://abcnew.site:8880/12mss200007/69734683/29125
+#EXTINF:-1 tvg-id="sky.cinema.premieren.plus.24.de" tvg-name="DE159:SKY CINEMA PREMIEREN +24" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE159:SKY CINEMA PREMIEREN +24
+http://abcnew.site:8880/12mss200007/69734683/29124
+#EXTINF:-1 tvg-id="sky.cinema.special.de" tvg-name="DE160:SKY CINEMA SPECIAL" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE160:SKY CINEMA SPECIAL
+http://abcnew.site:8880/12mss200007/69734683/29123
+#EXTINF:-1 tvg-id="sky.cinema.thriller.de" tvg-name="DE161:SKY CINEMA THRILLER" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE161:SKY CINEMA THRILLER
+http://abcnew.site:8880/12mss200007/69734683/29122
+#EXTINF:-1 tvg-id="sky.krimi.de" tvg-name="DE162:SKY KRIMI" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE162:SKY KRIMI
+http://abcnew.site:8880/12mss200007/69734683/29121
+#EXTINF:-1 tvg-id="comedy.central.de" tvg-name="DE164:SKY NOSTALGIE" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE164:SKY NOSTALGIE
+http://abcnew.site:8880/12mss200007/69734683/29119
+#EXTINF:-1 tvg-id="drf1.de" tvg-name="DE165:SKY POPCORN SELECT 1" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE165:SKY POPCORN SELECT 1
+http://abcnew.site:8880/12mss200007/69734683/29118
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE166:SKY POPCORN SELECT 2" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE166:SKY POPCORN SELECT 2
+http://abcnew.site:8880/12mss200007/69734683/29116
+#EXTINF:-1 tvg-id="" tvg-name="DE167:SKY POPCORN SELECT 3" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE167:SKY POPCORN SELECT 3
+http://abcnew.site:8880/12mss200007/69734683/29115
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE168:SKY POPCORN SELECT 4" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE168:SKY POPCORN SELECT 4
+http://abcnew.site:8880/12mss200007/69734683/29114
+#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="DE169:SKY POPCORN SELECT 5" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE169:SKY POPCORN SELECT 5
+http://abcnew.site:8880/12mss200007/69734683/29113
+#EXTINF:-1 tvg-id="eurosport.2.de" tvg-name="DE170:SKY POPCORN SELECT 6" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE170:SKY POPCORN SELECT 6
+http://abcnew.site:8880/12mss200007/69734683/29112
+#EXTINF:-1 tvg-id="sky.replay.de" tvg-name="DE171:SKY REPLAY" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE171:SKY REPLAY
+http://abcnew.site:8880/12mss200007/69734683/29111
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE172:SKY SELECT 1" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE172:SKY SELECT 1
+http://abcnew.site:8880/12mss200007/69734683/29110
+#EXTINF:-1 tvg-id="" tvg-name="DE173:SKY SELECT 2" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE173:SKY SELECT 2
+http://abcnew.site:8880/12mss200007/69734683/29109
+#EXTINF:-1 tvg-id="" tvg-name="DE174:SKY SELECT 3" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE174:SKY SELECT 3
+http://abcnew.site:8880/12mss200007/69734683/29108
+#EXTINF:-1 tvg-id="" tvg-name="DE175:SKY SELECT 4" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE175:SKY SELECT 4
+http://abcnew.site:8880/12mss200007/69734683/29107
+#EXTINF:-1 tvg-id="" tvg-name="DE176:SKY SELECT 5" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE176:SKY SELECT 5
+http://abcnew.site:8880/12mss200007/69734683/29106
+#EXTINF:-1 tvg-id="" tvg-name="DE177:SKY SELECT 6" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE177:SKY SELECT 6
+http://abcnew.site:8880/12mss200007/69734683/29105
+#EXTINF:-1 tvg-id="fix.foxi.de" tvg-name="DE178:SKY SELECT 7" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE178:SKY SELECT 7
+http://abcnew.site:8880/12mss200007/69734683/29104
+#EXTINF:-1 tvg-id="" tvg-name="DE179: SKY SELECT 8" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE179: SKY SELECT 8
+http://abcnew.site:8880/12mss200007/69734683/29103
+#EXTINF:-1 tvg-id="" tvg-name="DE180:SKY SELECT 9" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE180:SKY SELECT 9
+http://abcnew.site:8880/12mss200007/69734683/29102
+#EXTINF:-1 tvg-id="" tvg-name="DE181:SKY SELECT 10" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE181:SKY SELECT 10
+http://abcnew.site:8880/12mss200007/69734683/29101
+#EXTINF:-1 tvg-id="" tvg-name="DE215:SONY AXN" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE215:SONY AXN
+http://abcnew.site:8880/12mss200007/69734683/29067
+#EXTINF:-1 tvg-id="deluxe.music.de" tvg-name="DE216:SONY CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE216:SONY CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/29066
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE224:STAR WARS CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE224:STAR WARS CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/29057
+#EXTINF:-1 tvg-id="" tvg-name="DE228:SYFY" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE228:SYFY
+http://abcnew.site:8880/12mss200007/69734683/29054
+#EXTINF:-1 tvg-id="" tvg-name="DE245:UNIVERSAL CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE245:UNIVERSAL CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/29037
+#EXTINF:-1 tvg-id="" tvg-name="DE248:WAIDWERK TV" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE248:WAIDWERK TV
+http://abcnew.site:8880/12mss200007/69734683/29034
+#EXTINF:-1 tvg-id="" tvg-name="DE249:WARNER COMEDY" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE249:WARNER COMEDY
+http://abcnew.site:8880/12mss200007/69734683/29033
+#EXTINF:-1 tvg-id="" tvg-name="DE250:WARNER TV FILM" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE250:WARNER TV FILM
+http://abcnew.site:8880/12mss200007/69734683/29032
+#EXTINF:-1 tvg-id="" tvg-name="DE251:WARNER TV SERIE" tvg-logo="" tvg-shift="0" group-title="DE Cinema", DE251:WARNER TV SERIE
+http://abcnew.site:8880/12mss200007/69734683/29031
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE016:BOOMERANG" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE016:BOOMERANG
+http://abcnew.site:8880/12mss200007/69734683/2667
+#EXTINF:-1 tvg-id="cartoon.network.de" tvg-name="DE019:CARTOON NETWORK" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE019:CARTOON NETWORK
+http://abcnew.site:8880/12mss200007/69734683/2664
+#EXTINF:-1 tvg-id="disney.de" tvg-name="DE032:DISNEY CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE032:DISNEY CHANNEL
+http://abcnew.site:8880/12mss200007/69734683/2651
+#EXTINF:-1 tvg-id="orf1.de.se" tvg-name="DE034:DISNEY JUNIOR" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE034:DISNEY JUNIOR
+http://abcnew.site:8880/12mss200007/69734683/2649
+#EXTINF:-1 tvg-id="orf.2.de" tvg-name="DE035:DISNEY XD" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE035:DISNEY XD
+http://abcnew.site:8880/12mss200007/69734683/2648
+#EXTINF:-1 tvg-id="nick.jr.de" tvg-name="DE097:NICK JR" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE097:NICK JR
+http://abcnew.site:8880/12mss200007/69734683/29187
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.7.de" tvg-name="DE098:NICK KIDS" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE098:NICK KIDS
+http://abcnew.site:8880/12mss200007/69734683/29186
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.6.de" tvg-name="DE099:NICKELODEON" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE099:NICKELODEON
+http://abcnew.site:8880/12mss200007/69734683/29185
+#EXTINF:-1 tvg-id="nicktoons.de" tvg-name="DE100:NICKTOONS" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE100:NICKTOONS
+http://abcnew.site:8880/12mss200007/69734683/29184
+#EXTINF:-1 tvg-id="" tvg-name="DE259:BABY TV" tvg-logo="" tvg-shift="0" group-title="DE Kids", DE259:BABY TV
+http://abcnew.site:8880/12mss200007/69734683/29023
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE042:EURONEWS" tvg-logo="" tvg-shift="0" group-title="DE News", DE042:EURONEWS
+http://abcnew.site:8880/12mss200007/69734683/2641
+#EXTINF:-1 tvg-id="n.de" tvg-name="DE092:N-TV" tvg-logo="" tvg-shift="0" group-title="DE News", DE092:N-TV
+http://abcnew.site:8880/12mss200007/69734683/29192
+#EXTINF:-1 tvg-id="" tvg-name="DE210:SKY SPORT NEWS" tvg-logo="" tvg-shift="0" group-title="DE News", DE210:SKY SPORT NEWS
+http://abcnew.site:8880/12mss200007/69734683/29072
