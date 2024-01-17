@@ -233,7 +233,7 @@ http://abcnew.site:8880/12mss200007/69734683/2679
 http://abcnew.site:8880/12mss200007/69734683/2661
 #EXTINF:-1 tvg-id="discovery.de" tvg-name="DE031:DISCOVERY CHANNEL" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE031:DISCOVERY CHANNEL
 http://abcnew.site:8880/12mss200007/69734683/2652
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE037:DMAX" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE037:DMAX
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE: DMAX
 http://abcnew.site:8880/12mss200007/69734683/2646
 #EXTINF:-1 tvg-id="hgtv.de" tvg-name="DE051:HGTV" tvg-logo="" tvg-shift="0" group-title="DE Doc", DE051:HGTV
 http://abcnew.site:8880/12mss200007/69734683/2632
