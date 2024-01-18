@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13th Street Universal" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13TH Street
+#EXTINF:-1 tvg-id="DE: 13th Street Universal" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13TH Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
-#EXTINF:-1 tvg-id="3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
+#EXTINF:-1 tvg-id="DE: 3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
 plugin://plugin.video.vavooto/?name=3+SAT
-#EXTINF:-1 tvg-id="ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png",ARD alpha
+#EXTINF:-1 tvg-id="DE: ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png",ARD alpha
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
 #EXTINF:-1 tvg-id="ATV" group-title="ORF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
 plugin://plugin.video.vavooto/?name=ATV
@@ -11,13 +11,13 @@ plugin://plugin.video.vavooto/?name=ATV
 plugin://plugin.video.vavooto/?name=ATV+2
 #EXTINF:-1 tvg-id="AXN" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
 plugin://plugin.video.vavooto/?name=AXN
-#EXTINF:-1 tvg-id="ANIXE" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png",Anixe Serie
+#EXTINF:-1 tvg-id="DE: ANIXE Serie" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE SERIE
-#EXTINF:-1 tvg-id="ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",Arte
+#EXTINF:-1 tvg-id="DE: ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",Arte
 plugin://plugin.video.vavooto/?name=ARTE
-#EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
+#EXTINF:-1 tvg-id="DE: Auto Motor und Sport" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
-#EXTINF:-1 tvg-id="BR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png",BR
+#EXTINF:-1 tvg-id="DE: BR Nord" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png",BR
 plugin://plugin.video.vavooto/?name=BR
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Kinde" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
