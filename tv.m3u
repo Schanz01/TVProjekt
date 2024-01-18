@@ -19,7 +19,7 @@ plugin://plugin.video.vavooto/?name=ARTE
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 #EXTINF:-1 tvg-id="DE: BR Nord" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png",BR
 plugin://plugin.video.vavooto/?name=BR
-#EXTINF:-1 tvg-id="DE: Cartoon Network" group-title="Kinde" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
+#EXTINF:-1 tvg-id="DE: Cartoon Network" group-title="Kinder" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="DE: Comedy Central" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png",Comedy Central
 plugin://plugin.video.vavooto/?name=VIVA
@@ -87,7 +87,7 @@ plugin://plugin.video.vavooto/?name=ORF+1
 plugin://plugin.video.vavooto/?name=ORF+2
 #EXTINF:-1 tvg-id="DE: Phoenix" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png",PHOENIX
 plugin://plugin.video.vavooto/?name=PHOENIX
-#EXTINF:-1 tvg-id="PULS 4" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1052.png",PULS 4
+#EXTINF:-1 tvg-id="PULS 4" group-title="ORF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1052.png",PULS 4
 plugin://plugin.video.vavooto/?name=PULS+4
 #EXTINF:-1 tvg-id="DE: ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
 plugin://plugin.video.vavooto/?name=PRO+7
@@ -225,3 +225,50 @@ plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA8
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA9
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 10" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1474.png",Sky Bundesliga 10
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA10
+#EXTINF:-1 tvg-id="DE: Sky Sport 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/550.png",Sky Sport 1
+plugin://plugin.video.vavooto/?name=SKY SPORT 1
+#EXTINF:-1 tvg-id="DE: Sky Sport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/568.png",Sky Sport 2
+plugin://plugin.video.vavooto/?name=SKY SPORT 2
+#EXTINF:-1 tvg-id="DE: Sky Sport 3" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/534.png",Sky Sport 3
+plugin://plugin.video.vavooto/?name=SKY SPORT 3
+#EXTINF:-1 tvg-id="DE: Sky Sport 4" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/569.png",Sky Sport 4
+plugin://plugin.video.vavooto/?name=SKY SPORT 4
+#EXTINF:-1 tvg-id="DE: Sky Sport 5" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/567.png",Sky Sport 5
+plugin://plugin.video.vavooto/?name=SKY SPORT 5
+#EXTINF:-1 tvg-id="DE: Sky Sport 6" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/558.png",Sky Sport 6
+plugin://plugin.video.vavooto/?name=SKY SPORT 6
+#EXTINF:-1 tvg-id="DE: Sky Sport 7" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1173.png",Sky Sport 7
+plugin://plugin.video.vavooto/?name=SKY SPORT 7
+#EXTINF:-1 tvg-id="DE: Sky Sport 8" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1174.png",Sky Sport 8
+plugin://plugin.video.vavooto/?name=SKY SPORT 8
+#EXTINF:-1 tvg-id="DE: Sky Sport 9" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1175.png",Sky Sport 9
+plugin://plugin.video.vavooto/?name=SKY SPORT 9
+#EXTINF:-1 tvg-id="DE: Sky Sport 10" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/433.png",Sky Sport 10
+plugin://plugin.video.vavooto/?name=SKY SPORT 10
+#EXTINF:-1 tvg-id="DE: Sky Sport F1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1422.png",Sky Sport Formel 1
+plugin://plugin.video.vavooto/?name=SKY SPORT F1
+#EXTINF:-1 tvg-id="DE: Sky Sport Golf" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1274.png",Sky Sport Golf
+plugin://plugin.video.vavooto/?name=SKY SPORT GOLF
+#EXTINF:-1 tvg-id="DE: Sky Sport Tennis" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1275.png",Sky Sport Tennis
+plugin://plugin.video.vavooto/?name=SKY SPORT TENNIS
+#EXTINF:-1 tvg-id="DE: Sky Sport Mix" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1273.png",Sky Sport Mix
+plugin://plugin.video.vavooto/?name=SKY SPORT MIX
+#EXTINF:-1 tvg-id="DE: Sky Sport Premier League" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/550.png",Sky Sport Premier League
+plugin://plugin.video.vavooto/?name=SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-id="DE: Sky Sport News" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1439.png",Sky Sport News
+plugin://plugin.video.vavooto/?name=SKY SPORT NEWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
