@@ -219,9 +219,9 @@ http://abcnew.site:8880/12mss200007/69734683/29029
 http://abcnew.site:8880/12mss200007/69734683/29028
 #EXTINF:-1 tvg-id="" tvg-name="DE255:XITE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE255:XITE
 http://abcnew.site:8880/12mss200007/69734683/29027
-#EXTINF:-1 tvg-id="" tvg-name="DE256:ZDF" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE256:ZDF
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE: ZDF
 http://abcnew.site:8880/12mss200007/69734683/29026
-#EXTINF:-1 tvg-id="" tvg-name="DE257:ZDF INFO" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE257:ZDF INFO
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF INFO" tvg-logo="" tvg-shift="0" group-title="DE Ent", ZDF INFO
 http://abcnew.site:8880/12mss200007/69734683/29025
 #EXTINF:-1 tvg-id="" tvg-name="DE258:ZDF NEO" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE258:ZDF NEO
 http://abcnew.site:8880/12mss200007/69734683/29024
