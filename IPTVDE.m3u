@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="123.de" tvg-name="DE: 1.2.3 TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE: 1.2.3 TV
+#EXTINF:-1 tvg-id="123.de" tvg-name="DE: 1.2.3 TV" tvg-logo="" tvg-shift="0" group-title="Shopping", 1.2.3 TV
 http://abcnew.site:8880/12mss200007/69734683/2682
-#EXTINF:-1 tvg-id="13th.street.de" tvg-name="DE: 13TH STREET" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE: 13TH STREET
+#EXTINF:-1 tvg-id="13th.street.de" tvg-name="DE: 13Th Street" tvg-logo="" tvg-shift="0" group-title="Sky / Filme", 13th Street
 http://abcnew.site:8880/12mss200007/69734683/2681
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE: 3 SAT" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE: 3 SAT
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE: 3 SAT" tvg-logo="" tvg-shift="0" group-title="Standard", 3 SAT
 http://abcnew.site:8880/12mss200007/69734683/2680
-#EXTINF:-1 tvg-id="anixe.serie.de" tvg-name="DE: ANIXE SERIES" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE: ANIXE SERIES
+#EXTINF:-1 tvg-id="anixe.serie.de" tvg-name="DE: ANIXE SERIES" tvg-logo="" tvg-shift="0" group-title="Sky / Filme", Anixe Series
 http://abcnew.site:8880/12mss200007/69734683/2678
-#EXTINF:-1 tvg-id="ard.alpha.de" tvg-name="DE: ARD ALPHA" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE: ARD ALPHA
+#EXTINF:-1 tvg-id="ard.alpha.de" tvg-name="DE: ARD ALPHA" tvg-logo="" tvg-shift="0" group-title="Standard", ARD alpha
 http://abcnew.site:8880/12mss200007/69734683/2677
-#EXTINF:-1 tvg-id="ard.das.erste.fr" tvg-name="DE: ARD DAS ERSTE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE: ARD DAS ERSTE
+#EXTINF:-1 tvg-id="ard.das.erste.fr" tvg-name="DE: Das Erste" tvg-logo="" tvg-shift="0" group-title="Standard", ARD Das Erste
 http://abcnew.site:8880/12mss200007/69734683/2676
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE008:ARTE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE008:ARTE
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: ARTE" tvg-logo="" tvg-shift="0" group-title="Standard", Arte
 http://abcnew.site:8880/12mss200007/69734683/2675
-#EXTINF:-1 tvg-id="atv.de" tvg-name="DE009:ATV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE009:ATV
+#EXTINF:-1 tvg-id="atv.de" tvg-name="DE: ATV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE009:ATV
 http://abcnew.site:8880/12mss200007/69734683/2674
-#EXTINF:-1 tvg-id="deluxe.music.de" tvg-name="DE012:BADEN TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE012:BADEN TV
+#EXTINF:-1 tvg-id="deluxe.music.de" tvg-name="DE: BADEN TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE012:BADEN TV
 http://abcnew.site:8880/12mss200007/69734683/2671
-#EXTINF:-1 tvg-id="discovery.de" tvg-name="DE013:BIBEL TV IMPULS" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE013:BIBEL TV IMPULS
+#EXTINF:-1 tvg-id="discovery.de" tvg-name="DE: BIBEL TV IMPULS" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE013:BIBEL TV IMPULS
 http://abcnew.site:8880/12mss200007/69734683/2670
-#EXTINF:-1 tvg-id="bild.de" tvg-name="DE014:BILD TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE014:BILD TV
+#EXTINF:-1 tvg-id="bild.de" tvg-name="DE: BILD" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE014:BILD TV
 http://abcnew.site:8880/12mss200007/69734683/2669
-#EXTINF:-1 tvg-id="bongusto.de" tvg-name="DE015:BON GUSTO" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE015:BON GUSTO
+#EXTINF:-1 tvg-id="bongusto.de" tvg-name="DE: BonGusto" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE015:BON GUSTO
 http://abcnew.site:8880/12mss200007/69734683/2668
-#EXTINF:-1 tvg-id="br.de" tvg-name="DE017:BR" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE017:BR
+#EXTINF:-1 tvg-id="br.de" tvg-name="DE: BR Nord" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE017:BR
 http://abcnew.site:8880/12mss200007/69734683/2666
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE018:CAMPUS TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE018:CAMPUS TV
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE: CAMPUS TV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE018:CAMPUS TV
 http://abcnew.site:8880/12mss200007/69734683/2665
-#EXTINF:-1 tvg-id="comedy.central.de" tvg-name="DE021:COMEDY CENTRAL" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE021:COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedy.central.de" tvg-name="DE: Comedy Central" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE021:COMEDY CENTRAL
 http://abcnew.site:8880/12mss200007/69734683/2662
 #EXTINF:-1 tvg-id="das.erste.de" tvg-name="DE023:DAS ERSTE" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE023:DAS ERSTE
 http://abcnew.site:8880/12mss200007/69734683/2660
