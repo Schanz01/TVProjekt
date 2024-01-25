@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="123.de" tvg-name="DE: 1.2.3 TV" tvg-logo="" tvg-shift="0" group-title="Shopping", 1.2.3 TV
 http://abcnew.site:8880/12mss200007/69734683/2682
-#EXTINF:-1 tvg-id="13th.street.de" tvg-name="DE: 13Th Street" tvg-logo="" tvg-shift="0" group-title="Sky / Filme", 13th Street
+#EXTINF:-1 tvg-id="DE: 13th Street" tvg-name="DE: 13Th Street" tvg-logo="" tvg-shift="0" group-title="Sky / Filme", 13th Street
 http://abcnew.site:8880/12mss200007/69734683/2681
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="DE: 3 SAT" tvg-logo="" tvg-shift="0" group-title="Standard", 3 SAT
 http://abcnew.site:8880/12mss200007/69734683/2680
-#EXTINF:-1 tvg-id="anixe.serie.de" tvg-name="DE: ANIXE SERIES" tvg-logo="" tvg-shift="0" group-title="Sky / Filme", Anixe Series
+#EXTINF:-1 tvg-id="DE: ANIXE Serie" tvg-name="DE: ANIXE SERIES" tvg-logo="" tvg-shift="0" group-title="Sky / Filme", Anixe Series
 http://abcnew.site:8880/12mss200007/69734683/2678
 #EXTINF:-1 tvg-id="ard.alpha.de" tvg-name="DE: ARD alpha" tvg-logo="" tvg-shift="0" group-title="Standard", ARD alpha
 http://abcnew.site:8880/12mss200007/69734683/2677
 #EXTINF:-1 tvg-id="ard.das.erste.de" tvg-name="DE: Das Erste" tvg-logo="" tvg-shift="0" group-title="Standard", ARD Das Erste
 http://abcnew.site:8880/12mss200007/69734683/2676
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: ARTE" tvg-logo="" tvg-shift="0" group-title="Standard", Arte
+#EXTINF:-1 tvg-id="DE: ARTE" tvg-name="DE: ARTE" tvg-logo="" tvg-shift="0" group-title="Standard", Arte
 http://abcnew.site:8880/12mss200007/69734683/2675
 #EXTINF:-1 tvg-id="atv.de" tvg-name="DE: ATV" tvg-logo="" tvg-shift="0" group-title="DE Ent", DE009:ATV
 http://abcnew.site:8880/12mss200007/69734683/2674
