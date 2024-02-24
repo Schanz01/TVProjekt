@@ -210,21 +210,21 @@ plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA1
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/516.png",Sky Bundesliga 2
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 3" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/526.png",Sky Bundesliga 3
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA3
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 4" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/515.png",Sky Bundesliga 4
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA4
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+4
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 5" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/523.png",Sky Bundesliga 5
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA5
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+5
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 6" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1468.png",Sky Bundesliga 6
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA6
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+6
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 7" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1469.png",Sky Bundesliga 7
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA7
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+7
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 8" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1470.png",Sky Bundesliga 8
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA8
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 9" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1471.png",Sky Bundesliga 9
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA9
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 10" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1474.png",Sky Bundesliga 10
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA10
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
 #EXTINF:-1 tvg-id="DE: Sky Sport 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/550.png",Sky Sport 1
 plugin://plugin.video.vavooto/?name=SKY SPORT 1
 #EXTINF:-1 tvg-id="DE: Sky Sport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/568.png",Sky Sport 2
