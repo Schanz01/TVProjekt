@@ -208,7 +208,7 @@ plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/524.png",Sky Bundesliga 1
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA1
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/516.png",Sky Bundesliga 2
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA2
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 3" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/526.png",Sky Bundesliga 3
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA3
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 4" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/515.png",Sky Bundesliga 4
