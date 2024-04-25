@@ -5,15 +5,11 @@ plugin://plugin.video.vavooto/?name=13TH+STREET
 plugin://plugin.video.vavooto/?name=3+SAT
 #EXTINF:-1 tvg-id="DE: ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png",ARD alpha
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
-#EXTINF:-1 tvg-id="AT: ATV" group-title="ORF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
-plugin://plugin.video.vavooto/?name=ATV
-#EXTINF:-1 tvg-id="AT: ATV II" group-title="ORF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
-plugin://plugin.video.vavooto/?name=ATV+2
-#EXTINF:-1 tvg-id="DE: AXN" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
+#EXTINF:-1 tvg-id="DE: AXN White" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
 plugin://plugin.video.vavooto/?name=AXN
 #EXTINF:-1 tvg-id="DE: ANIXE Serie" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE SERIE
-#EXTINF:-1 tvg-id="ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",ARTE
+#EXTINF:-1 tvg-id="DE: ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",ARTE
 plugin://plugin.video.vavooto/?name=ARTE
 #EXTINF:-1 tvg-id="DE: Auto Motor und Sport" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
@@ -23,7 +19,7 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="DE: Comedy Central" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png",Comedy Central
 plugin://plugin.video.vavooto/?name=VIVA
-#EXTINF:-1 tvg-id="DE: Crime &amp;amp; Investigation" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png",CRIME + INVESTIGATION
+#EXTINF:-1 tvg-id="DE: Crime+Investigation" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png",CRIME + INVESTIGATION
 plugin://plugin.video.vavooto/?name=A%26E
 #EXTINF:-1 tvg-id="DE: Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1016.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+%2D+DAS+ERSTE
@@ -41,10 +37,8 @@ plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="DE: Eurosport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="Fix &amp; Foxi" group-title="Kinder" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png",Fix und Foxi
-plugin://plugin.video.vavooto/?name=FIX+UND+FOXI
 #EXTINF:-1 tvg-id="DE: GEO" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",Geo HD
-plugin://plugin.video.vavooto/?name=MOTORVISION
+plugin://plugin.video.vavooto/?name=GEO+TV
 #EXTINF:-1 tvg-id="DE: Heimatkanal" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="DE: History" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History
@@ -54,7 +48,7 @@ plugin://plugin.video.vavooto/?name=HR
 #EXTINF:-1 tvg-id="Jukebox" group-title="Musik" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
 plugin://plugin.video.vavooto/?name=JUKEBOX
 #EXTINF:-1 tvg-id="DE: Kabel Eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
-plugin://plugin.video.vavooto/?name=KABEL+1
+plugin://plugin.video.vavooto/?name=KABEL 1
 #EXTINF:-1 tvg-id="DE: Kabel Eins CLASSICS" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 #EXTINF:-1 tvg-id="DE: Kabel Eins Doku" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
@@ -154,7 +148,7 @@ plugin://plugin.video.vavooto/?name=SKY+1
 #EXTINF:-1 tvg-id="DE: Sky Replay" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png",Sky Replay
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
 #EXTINF:-1 tvg-id="DE: Sony Channel" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/961.png",Sony Channel
-plugin://plugin.video.vavooto/?name=SONY+CHANNEL
+plugin://plugin.video.vavooto/?name=SONY CHANNEL
 #EXTINF:-1 tvg-id="DE: Spiegel Geschichte" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/486.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="DE: Spiegel TV Wissen" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Spiegel TV Wissen
@@ -192,13 +186,13 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 #EXTINF:-1 tvg-id="DE: WDR Dortmund" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
 #EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100",WELT DER WUNDER
-plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
+plugin://plugin.video.vavooto/?name=WELT DER WUNDER
 #EXTINF:-1 tvg-id="DE: ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-id="DE: ZDFinfo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png",ZDF info
-plugin://plugin.video.vavooto/?name=ZDF+INFO
+plugin://plugin.video.vavooto/?name=ZDF INFO
 #EXTINF:-1 tvg-id="DE: ZDFneo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
-plugin://plugin.video.vavooto/?name=ZDF+NEO
+plugin://plugin.video.vavooto/?name=ZDF NEO
 #EXTINF:-1 tvg-id="DE: DAZN 1" group-title="Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png",DAZN 1
 plugin://plugin.video.vavooto/?name=DAZN 1
 #EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png",DAZN 2
