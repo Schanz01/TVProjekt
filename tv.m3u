@@ -1,11 +1,11 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://xmltv.info/de/epg.xml"
 #EXTINF:-1 tvg-id="DE: 13th Street" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13th Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-id="DE: 3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3Sat
 plugin://plugin.video.vavooto/?name=3+SAT
 #EXTINF:-1 tvg-id="DE: ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png",ARD alpha
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
-#EXTINF:-1 tvg-id="DE: AXN White" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
+#EXTINF:-1 tvg-id="DE: AXN White" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN White
 plugin://plugin.video.vavooto/?name=AXN
 #EXTINF:-1 tvg-id="DE: ANIXE Serie" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE SERIE
@@ -147,7 +147,7 @@ plugin://plugin.video.vavooto/?name=SKY+NATURE
 plugin://plugin.video.vavooto/?name=SKY+1
 #EXTINF:-1 tvg-id="DE: Sky Replay" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png",Sky Replay
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
-#EXTINF:-1 tvg-id="DE: Sony Channel" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/961.png",Sony Channel
+#EXTINF:-1 tvg-id="DE: Sony Channel" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/961.png",Anixe Serie
 plugin://plugin.video.vavooto/?name=SONY CHANNEL
 #EXTINF:-1 tvg-id="DE: Spiegel Geschichte" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/486.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
