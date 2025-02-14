@@ -9,7 +9,6 @@ plugin://plugin.video.vavooto/?name=ARD+ALPHA
 plugin://plugin.video.vavooto/?name=AXN+WHITE
 #EXTINF:-1 tvg-id="DE: AXN Black" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/AXN_Black_Logo.png",AXN Black
 plugin://plugin.video.vavooto/?name=AXN+BLACK
-
 #EXTINF:-1 tvg-id="DE: ARTE" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/341px-Arte-Logo.svg.png",arte
 plugin://plugin.video.vavooto/?name=ARTE
 #EXTINF:-1 tvg-id="DE: Auto Motor und Sport" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png",Auto Motor Sport
@@ -228,10 +227,8 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 #EXTINF:-1 tvg-id="DE: WDRFernsehen" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
-
 #EXTINF:-1 tvg-id="DE: Magenta Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
-
 #EXTINF:-1 tvg-id="DE: Magenta Sport 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 2
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
 #EXTINF:-1 tvg-id="DE: Magenta Sport 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 3
@@ -252,41 +249,32 @@ plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
 #EXTINF:-1 tvg-id="DE: Nicktoons" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png",NickToons
 plugin://plugin.video.vavooto/?name=NICKTOONS
-
 #EXTINF:-1 tvg-id="DE: Rakuten Comedy Movies" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Comedy
 plugin://plugin.video.vavooto/?name=RAKUTEN+COMEDY+MOVIES
 #EXTINF:-1 tvg-id="DE: Rakuten Action" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Action
 plugin://plugin.video.vavooto/?name=RAKUTEN+ACTION+MOVIES
 #EXTINF:-1 tvg-id="DE: Sky Cinema Family" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
-
 #EXTINF:-1 tvg-id="DE: RTL+ Sport Event 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 2
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+2
 #EXTINF:-1 tvg-id="DE: RTL+ Sport 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 3
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+3
 #EXTINF:-1 tvg-id="DE: RTL+ Sport Event 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 4
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+4
-
 #EXTINF:-1 tvg-id="DE: Romance TV" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/1280px-Romance_TV_Logo_10.2019.svg.png",Romance TV
 plugin://plugin.video.vavooto/?name=ROMANCE+TV
-
-
 #EXTINF:-1 tvg-id="DE: Tagesschau24" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png",ARD Tagesschau 24
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
-
 #EXTINF:-1 tvg-id="DE: Prime Video 2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 2
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+2
 #EXTINF:-1 tvg-id="DE: Prime Video 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 1
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+1
-
 #EXTINF:-1 tvg-id="DE: NicK jr." group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick jr.
 plugin://plugin.video.vavooto/?name=NICK+JR
 #EXTINF:-1 tvg-id="DE: eSports1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Esports1_ox2_W1000xh0.png",eSports 1
 plugin://plugin.video.vavooto/?name=ESPORTS+1
-
 #EXTINF:-1 tvg-id="DE: Sky Cinema Highlights" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sky_Cinema_Highlights_Logo_2024.svg/768px-Sky_Cinema_Highlights_Logo_2024.svg.png",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
-
 #EXTINF:-1 tvg-id="DE: Nick/Comedy" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
 
